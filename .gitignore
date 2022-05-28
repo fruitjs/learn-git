@@ -1,3 +1,4 @@
 # ignore files
 .git
+node_modules
 coverage
